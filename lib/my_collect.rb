@@ -9,7 +9,7 @@ def my_collect(array)
    else 
     puts "the block was empty"
 end
-emd 
+end 
 
 
 
